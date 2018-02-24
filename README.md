@@ -1,6 +1,5 @@
 # odin-openssl
 [![license](https://img.shields.io/github/license/ReneHSZ/odin-openssl.svg)](https://github.com/ReneHSZ/odin-openssl/blob/master/LICENSE)
-[![downloads](https://img.shields.io/github/downloads/ReneHSZ/odin-openssl/total.svg)](https://github.com/ReneHSZ/odin-openssl)
 [![contributors](https://img.shields.io/github/contributors/ReneHSZ/odin-openssl.svg)](https://github.com/ReneHSZ/odin-openssl/graphs/contributors)
 [![issues](https://img.shields.io/github/issues/ReneHSZ/odin-openssl.svg)](https://github.com/ReneHSZ/odin-openssl/issues)
 
